@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: c8bcdcd76d00c444d95053dd5343d880
+timeCreated: 1433026307
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 1 B Barrera.000
+    100002: 1 B Barrera.001
+    100004: 1 B Barrera.002
+    100006: 1 B Plano.000
+    100008: 1 B Plano.001
+    100010: 1 B Plano.002
+    100012: 2 B Desvio
+    100014: 2 B DesvioBarrera
+    100016: 3 C Left
+    100018: 3 C LeftBar
+    100020: 3 C Right
+    100022: 3 C RightBar
+    100024: 4 B Left
+    100026: 4 B LeftBar
+    100028: 4 B Right
+    100030: 4 B RightBar
+    100032: 5 B TuboExterior.001
+    100034: 5 B TuboInterior.001
+    100036: 5 B TuboTapa.001
+    100038: 6 B BocaBallena
+    100040: 6 B PreBallenaExterior
+    100042: 6 B PreBallenaInterior
+    100044: 8 B EndingBot
+    100046: 8 B EndingBotBar
+    100048: 8 C EndingTop
+    100050: 8 C EndingTopBar
+    100052: //RootNode
+    400000: 1 B Barrera.000
+    400002: 1 B Barrera.001
+    400004: 1 B Barrera.002
+    400006: 1 B Plano.000
+    400008: 1 B Plano.001
+    400010: 1 B Plano.002
+    400012: 2 B Desvio
+    400014: 2 B DesvioBarrera
+    400016: 3 C Left
+    400018: 3 C LeftBar
+    400020: 3 C Right
+    400022: 3 C RightBar
+    400024: 4 B Left
+    400026: 4 B LeftBar
+    400028: 4 B Right
+    400030: 4 B RightBar
+    400032: 5 B TuboExterior.001
+    400034: 5 B TuboInterior.001
+    400036: 5 B TuboTapa.001
+    400038: 6 B BocaBallena
+    400040: 6 B PreBallenaExterior
+    400042: 6 B PreBallenaInterior
+    400044: 8 B EndingBot
+    400046: 8 B EndingBotBar
+    400048: 8 C EndingTop
+    400050: 8 C EndingTopBar
+    400052: //RootNode
+    2300000: 1 B Barrera.000
+    2300002: 1 B Barrera.001
+    2300004: 1 B Barrera.002
+    2300006: 1 B Plano.000
+    2300008: 1 B Plano.001
+    2300010: 1 B Plano.002
+    2300012: 2 B Desvio
+    2300014: 2 B DesvioBarrera
+    2300016: 3 C Left
+    2300018: 3 C LeftBar
+    2300020: 3 C Right
+    2300022: 3 C RightBar
+    2300024: 4 B Left
+    2300026: 4 B LeftBar
+    2300028: 4 B Right
+    2300030: 4 B RightBar
+    2300032: 5 B TuboExterior.001
+    2300034: 5 B TuboInterior.001
+    2300036: 5 B TuboTapa.001
+    2300038: 6 B BocaBallena
+    2300040: 6 B PreBallenaExterior
+    2300042: 6 B PreBallenaInterior
+    2300044: 8 B EndingBot
+    2300046: 8 B EndingBotBar
+    2300048: 8 C EndingTop
+    2300050: 8 C EndingTopBar
+    3300000: 1 B Barrera.000
+    3300002: 1 B Barrera.001
+    3300004: 1 B Barrera.002
+    3300006: 1 B Plano.000
+    3300008: 1 B Plano.001
+    3300010: 1 B Plano.002
+    3300012: 2 B Desvio
+    3300014: 2 B DesvioBarrera
+    3300016: 3 C Left
+    3300018: 3 C LeftBar
+    3300020: 3 C Right
+    3300022: 3 C RightBar
+    3300024: 4 B Left
+    3300026: 4 B LeftBar
+    3300028: 4 B Right
+    3300030: 4 B RightBar
+    3300032: 5 B TuboExterior.001
+    3300034: 5 B TuboInterior.001
+    3300036: 5 B TuboTapa.001
+    3300038: 6 B BocaBallena
+    3300040: 6 B PreBallenaExterior
+    3300042: 6 B PreBallenaInterior
+    3300044: 8 B EndingBot
+    3300046: 8 B EndingBotBar
+    3300048: 8 C EndingTop
+    3300050: 8 C EndingTopBar
+    4300000: 8 C EndingTopBar
+    4300002: 3 C LeftBar
+    4300004: 3 C RightBar
+    4300006: 2 B DesvioBarrera
+    4300008: 1 B Barrera.002
+    4300010: 1 B Barrera.000
+    4300012: 6 B PreBallenaInterior
+    4300014: 5 B TuboInterior.001
+    4300016: 5 B TuboTapa.001
+    4300018: 5 B TuboExterior.001
+    4300020: 6 B BocaBallena
+    4300022: 6 B PreBallenaExterior
+    4300024: 8 B EndingBotBar
+    4300026: 8 C EndingTop
+    4300028: 8 B EndingBot
+    4300030: 4 B LeftBar
+    4300032: 4 B Left
+    4300034: 4 B RightBar
+    4300036: 4 B Right
+    4300038: 2 B Desvio
+    4300040: 3 C Right
+    4300042: 3 C Left
+    4300044: 1 B Barrera.001
+    4300046: 1 B Plano.000
+    4300048: 1 B Plano.002
+    4300050: 1 B Plano.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
